@@ -8,7 +8,7 @@ def classify_intent(query: str) -> str:
     """Classify the intent of the query"""
     client = OpenAI()
     response = client.chat.completions.create(
-        model=os.getenv("MODEL", "gpt-4o-mini"),
+        model=os.getenv("MODEL"),
         messages=[
             {
                 "role": "system",

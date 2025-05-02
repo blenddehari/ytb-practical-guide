@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+client/01a_simple_client.py
+client/01b_client.py
+client/02_llm.py
+client/03_agents.py
+client/03_product.py
+mcp_101.egg-info/PKG-INFO
+mcp_101.egg-info/SOURCES.txt
+mcp_101.egg-info/dependency_links.txt
+mcp_101.egg-info/requires.txt
+mcp_101.egg-info/top_level.txt
+server/product_server.py
+server/server_calendar.py
+server/server_tasks.py

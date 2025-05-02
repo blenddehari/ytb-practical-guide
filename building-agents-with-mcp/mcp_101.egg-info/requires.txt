@@ -1,0 +1,9 @@
+mcp[cli]>=1.6.0
+openai>=1.70.0
+python-dotenv>=1.1.0
+pyyaml>=6.0.2
+starlette>=0.46.1
+uvicorn>=0.34.0
+fastapi>=0.103.1
+pydantic>=2.3.0
+requests>=2.31.0

@@ -39,7 +39,7 @@ async def get_tasks(query: str, client_manager: ClientManager) -> str:
             print("-")
         print("---")
         response = client.chat.completions.create(
-            model=os.getenv("MODEL", "gpt-4o-mini"),
+            model=os.getenv("MODEL"),
             messages=messages,
             temperature=0.0,
             tools=list(client_manager.tools),
@@ -90,7 +90,7 @@ def summarize(tasks: list[str]) -> str:
     print("Summarizing tasks")
     print(f"Tasks: {tasks.join('\n---')}")
     response = client.chat.completions.create(
-        model=os.getenv("MODEL", "gpt-4o-mini"),
+        model=os.getenv("MODEL"),
         messages=[
             {
                 "role": "system",

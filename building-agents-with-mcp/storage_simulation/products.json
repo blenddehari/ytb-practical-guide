@@ -1,0 +1,92 @@
+[
+  {
+    "id": "cdee4e43-7dd6-4af5-8f9c-d48a29fe3c01",
+    "title": "Standard Adult Ticket",
+    "short_description": "Gain access to an unforgettable experience with our Standard Adult Ticket.",
+    "long_description": "Embark on a journey of discovery and excitement with our Standard Adult Ticket. Perfect for adults seeking adventure or relaxation, this ticket grants you access to a wide range of attractions and activities. Whether you're looking to explore new sights, enjoy thrilling rides, or simply unwind in a beautiful setting, our ticket offers the flexibility and freedom to create your own unique experience. Don't miss out on the opportunity to make lasting memories - secure your ticket today!",
+    "ticket": {
+      "id": "22de52d0-96f6-43b5-8aa8-7d34af1a5a4e",
+      "price": 45.0,
+      "ticket_type": {
+        "id": "type-1",
+        "title": "Adult"
+      },
+      "ticket_category": {
+        "id": "dd52ec89-29ad-497d-a7e0-ce88ae25864c",
+        "title": "Standard"
+      }
+    }
+  },
+  {
+    "id": "22b7a99d-3dd4-459a-a040-2a286af74e12",
+    "title": "Pizza Party Extravaganza",
+    "short_description": "Join us for an unforgettable pizza party!",
+    "long_description": "Get ready for an evening filled with delicious pizza, fun games, and great music at our Pizza Party Extravaganza! Whether you're a pepperoni lover or a veggie enthusiast, we have something for everyone. Enjoy unlimited pizza, participate in exciting contests, and dance the night away with friends and family. Don't miss out on this cheesy adventure!",
+    "ticket": {
+      "id": "44dcae1e-0c76-4651-b66e-75b809c74c1b",
+      "price": 5.0,
+      "ticket_type": {
+        "id": "type-1",
+        "title": "Adult"
+      },
+      "ticket_category": {
+        "id": "dd52ec89-29ad-497d-a7e0-ce88ae25864c",
+        "title": "Standard"
+      }
+    }
+  },
+  {
+    "id": "957f5773-3c4f-4549-a623-3ce4deffc0a3",
+    "title": "1st of May hike",
+    "short_description": "Join us for a refreshing hike to celebrate the 1st of May!",
+    "long_description": "Celebrate the 1st of May with an invigorating hike through beautiful trails. This event is perfect for adults looking to enjoy nature, meet new people, and get some exercise. The hike will cover various terrains and offer stunning views. Suitable for individuals with moderate hiking experience. Don't miss this opportunity to kick off the spring season in the great outdoors!",
+    "ticket": {
+      "id": "d6d122d0-43f2-4585-8efa-4b974d636d13",
+      "price": 9.0,
+      "ticket_type": {
+        "id": "type-1",
+        "title": "Adult"
+      },
+      "ticket_category": {
+        "id": "5eca9049-db56-4943-9a6a-734f77f5bfd7",
+        "title": "Event"
+      }
+    }
+  },
+  {
+    "id": "e6811b3f-4030-43a5-89d6-1591c4b967e8",
+    "title": "14th of February",
+    "short_description": "Celebrate love and companionship on Valentine's Day!",
+    "long_description": "Join us for a special celebration of love on the 14th of February. This Valentine's Day event is designed for couples and friends to enjoy a memorable evening filled with romance, fun activities, and heartwarming moments. Whether you're looking to express your love, make new memories, or simply enjoy the company of your loved ones, this event promises an unforgettable experience. Don't miss the chance to celebrate love in all its forms!",
+    "ticket": {
+      "id": "1d628b0c-b2b7-4535-954d-26e10772aba8",
+      "price": 20.0,
+      "ticket_type": {
+        "id": "type-1",
+        "title": "Adult"
+      },
+      "ticket_category": {
+        "id": "ac8fbb1d-7320-4fa2-b80e-033df9050bbb",
+        "title": "Special Event"
+      }
+    }
+  },
+  {
+    "id": "02812269-0ab5-4df2-88ce-4ccc22f0acae",
+    "title": "Museum Tour",
+    "short_description": "Explore the wonders of art and history with our Museum Tour.",
+    "long_description": "Dive into the rich tapestry of history and art with our exclusive Museum Tour. This guided tour offers adults a unique opportunity to explore some of the most renowned museums in the city. From ancient artifacts to modern masterpieces, our knowledgeable guides will provide fascinating insights into each exhibit. Perfect for art enthusiasts and history buffs alike, this tour promises an enriching and educational experience. Don't miss out on this cultural journey!",
+    "ticket": {
+      "id": "efba190d-5f04-4a43-81d1-1ef10875e7c1",
+      "price": 22.0,
+      "ticket_type": {
+        "id": "type-1",
+        "title": "Adult"
+      },
+      "ticket_category": {
+        "id": "1cbc1b78-d263-4265-96d9-628ceb8ab2b0",
+        "title": "Cultural Experience"
+      }
+    }
+  }
+]

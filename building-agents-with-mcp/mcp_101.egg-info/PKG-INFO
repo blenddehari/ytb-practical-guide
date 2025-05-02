@@ -1,3 +1,19 @@
+Metadata-Version: 2.4
+Name: mcp-101
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: mcp[cli]>=1.6.0
+Requires-Dist: openai>=1.70.0
+Requires-Dist: python-dotenv>=1.1.0
+Requires-Dist: pyyaml>=6.0.2
+Requires-Dist: starlette>=0.46.1
+Requires-Dist: uvicorn>=0.34.0
+Requires-Dist: fastapi>=0.103.1
+Requires-Dist: pydantic>=2.3.0
+Requires-Dist: requests>=2.31.0
+
 # MCP Product Creation System
 
 This project demonstrates an AI agent that creates products using OpenAI's function calling and MCP.

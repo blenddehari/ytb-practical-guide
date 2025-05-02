@@ -5,3 +5,6 @@ servers:
   - name: calendar
     url: http://localhost:8020/sse
     api_key: secret-key2
+  - name: product
+    url: http://localhost:8001/sse
+    api_key: secret-key3
